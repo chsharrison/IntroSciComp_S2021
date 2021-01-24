@@ -1,0 +1,1 @@
+print("If you're happy and you know it clap youre hands!" + " clap!"*2)
