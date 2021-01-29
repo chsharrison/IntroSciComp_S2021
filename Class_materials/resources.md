@@ -11,7 +11,20 @@ Previous years' githubs:
 - https://github.com/moodycam/MARS-5470-4470
 
 Tutorials:
+  - Hands on python
+  http://anh.cs.luc.edu/handsonPythonTutorial/index.html
 
+ - A very quick python intro:
+  http://123.physics.ucdavis.edu/week_8_files/Python.pdf
+  
+  - Scientific python lecture notes
+  http://scipy-lectures.org
+  
+  - Johansson lecture notes
+  https://github.com/jrjohansson/scientific-python-lectures
+ - Earth Data Science:
+  https://www.earthdatascience.org
+  
  - R 
   https://swirlstats.com/
   
@@ -21,18 +34,6 @@ Tutorials:
  - Practical python for astronomers:
   https://python4astronomers.github.io/index.html#
   
- - A very quick python intro:
-  http://123.physics.ucdavis.edu/week_8_files/Python.pdf
-  
-  - Scientific python lecture notes
-  http://scipy-lectures.org
-  
-  - Johansson lecture notes
-  https://github.com/jrjohansson/scientific-python-lectures
-  
-  - Hands on python
-  http://anh.cs.luc.edu/handsonPythonTutorial/index.html
-
 Beginning Python exercises:
   
 - https://www.practicepython.org/
