@@ -18,6 +18,9 @@ Tutorials:
  - Stats in python:
   https://www.statsmodels.org/
 
+ - Practical python for astronomers:
+  https://python4astronomers.github.io/index.html#
+  
  - A very quick python intro:
   http://123.physics.ucdavis.edu/week_8_files/Python.pdf
   
