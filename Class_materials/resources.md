@@ -25,6 +25,9 @@ Tutorials:
  - Earth Data Science:
   https://www.earthdatascience.org
   
+  - Datacamp tutorials
+  https://www.datacamp.com/community/tutorials
+  
  - R 
   https://swirlstats.com/
   
