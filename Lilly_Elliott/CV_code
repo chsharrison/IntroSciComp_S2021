@@ -1,0 +1,87 @@
+https://www.overleaf.com/9652642317gckrxdqjkbtd
+
+\documentclass[]{friggeri-cv}
+
+\begin{document} 
+\header{Lilly}{ Elliott}
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{ \ }
+    \hspace*{-1cm} \includegraphics[width=4cm]{DSC_0503.jpg}
+  \section{About}
+    \hspace*{-1cm} M.S. Student
+    University of Texas Rio Grande Valley 
+    1201 W. University Dr. 
+    Edinburg, TX 78501
+    \hspace*{-1cm} \href{mailto:lilly.elliott01@utrgv.edu}{\mail \ lilly.elliott01@utrgv.edu}
+    ~
+  \section{Languages}
+    English and Spanish
+    ~
+  \section{Software}
+    Python and ArcMap
+    ~
+  \section{References}
+    \href{mailto:HPenn@agcenter.lsu.edu}{HPenn@agcenter.lsu}
+    \href{mailto:engil.pereira@utrgv.edu}{engil.pereira@utrgv}
+    \href{mailto:robin.choudhury@utrgv.edu}{robin.choudhury@utrgv}
+    ~
+  \section{Hobbies}
+    Hiking
+    Wildlife Photography
+\end{aside}
+
+\section{Interests}
+
+Integrated pest management (IPM), Insect-Plant interactions, VOCs, Entomology, 
+
+\section{Education}
+
+\begin{entrylist}
+\entry
+    {since 2020}
+    {M.S. {\normalfont Agricultural, Environmental, ans Sustainability Sciences}
+    {UTRGV}}
+    {}
+0
+\entry
+    {2017–2020}
+    {B.S. {\normalfont Environmental Science with a Conc. in Biology}
+    {UTRGV}}
+    {}
+0
+\entry
+    {2015-2017}
+    {A.S. {\normalfont Biology}
+    {South Texas College STC}}
+    {}
+0
+\end{entrylist}
+\vspace{-0.35cm}
+\section{Experience}
+\begin{entrylist}
+  \entry
+    {09 2020-}
+    {Research Assistant}
+    {UTRGV}
+    {\emph{ Using Raspberry Pi computer to analyze harvester ant predation frequency towards amended cover crop seeds.}}
+  \entry
+    {01-08 2020}
+    {Student Project Associate}
+    {UTRGV}
+    {\emph{Tasks included spatial interpolation assignments, phosphorous extraction, soil DNA extraction, graphic design, website management Supervisor: Dr Engil Pereira – Soil Ecology UTRGV}}
+  \entry
+    {01-06 2019}
+    {Student Project Associate}
+    {FWS/UTRGV}
+    {\emph{My responsibilities included database development of restored sites in la Sal Del Rey, TX. Every year or so since the early 90s trees have been planted in certain plots of land. By developing the database, we will evaluate if there have been any changes in C contents and attempt to find a trend over time.}}
+  \entry
+    {10-12 2020}
+    {Student Project Associate}
+    {Land Life Company/UTRGV}
+    {\emph{Gravimetric moisture assessment, sieving for homogenization, sample preparation for carbon analysis.}}
+\end{entrylist}
+\vspace{-0.35cm}
+
+\end{document}
